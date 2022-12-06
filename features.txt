@@ -1,0 +1,9 @@
+area_type: drop
+society: drop
+balcony: drop
+availability: ready to move and to be vacated
+location: req
+size: BHK req
+total_sqft: req
+bathrooms: req
+price->label
